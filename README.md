@@ -1,2 +1,2 @@
 # Inter-Dimensional Cable
-http://inter-dimensionalcable.xyz
+https://dgrej.github.io/interdimensionalcable/
